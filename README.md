@@ -1,4 +1,4 @@
-# Hello, Pranshul here:
+## Hello, Pranshul here:
 🏠I'm a final year CS student <br>✨ am fond of hackathons (10x winner) <br>🦀storing a few of my projects on this platform<br>👾 my projects are mostly about uniqueness :D 
 
 
