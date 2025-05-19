@@ -7,5 +7,4 @@
 
 ##
 🦀
-
-<img align="right" height="150" src="https://tenor.com/bNtKy.gif"  />
+<img align="left" height="150" src="https://tenor.com/bNtKy.gif"  />
