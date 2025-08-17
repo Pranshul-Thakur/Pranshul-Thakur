@@ -62,8 +62,4 @@
 
 ---
 
-## 🦀 Closing Note  
-
-<img align="left" height="120" src="https://media.tenor.com/bNtKy.gif" />  
-
-I love creating projects that surprise people — the type that makes you say:  
+## 🦀
