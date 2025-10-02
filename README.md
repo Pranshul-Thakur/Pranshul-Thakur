@@ -43,16 +43,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-
-- 🎮 [**DOOM-in-Excel**](https://github.com/Pranshul-Thakur/DOOM-in-excel) – Doom64 running inside Excel (yes, really!)  
-- 🔍 [**Dynamic-Debug**](https://github.com/Pranshul-Thakur/Dynamic-debug) – A memory debugger in C++  
-- 💰 [**Fast-Mint**](https://github.com/Pranshul-Thakur/Fast-Mint) – Minting app using Verbwire API  
-- 🔨 [**Reddit-Ban-Hammer**](https://github.com/Pranshul-Thakur/Reddit-Ban-Hammer) – Automate subreddit moderation  
-- 🌐 [**GPT-v1**](https://github.com/Pranshul-Thakur/GPT-v1) – Internet of all things (Python experiment)  
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
