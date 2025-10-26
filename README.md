@@ -2,8 +2,8 @@
 
 🏠 Final-year CS Student  
 ✨ 10x Hackathon Winner  
-🦀 Storing some of my quirky + unique projects here  
-👾 Love building things that make people go *“wait… is that even possible?”*  
+🦀 Storing some of my projects here  
+👾 Love building things
 
 ---
 
