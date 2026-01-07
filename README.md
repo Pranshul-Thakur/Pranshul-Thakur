@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Pranshul Thakur  
+# Hola, I'm Pranshul Thakur  
 
 🏠 Final-year CS Student  
 ✨ 10x Hackathon Winner  
@@ -40,15 +40,6 @@
 **Design:**  
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranshul-Thakur&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshul-Thakur&layout=compact&theme=tokyonight" height="160"/>
-</p>
 
 ---
 
